@@ -1,6 +1,11 @@
+HEAD
 # Naming Conventions (BRANCH2 VERSION)
 ## Overview (edited in branch2)
 ##- This line added in branch2
+# Naming Conventions (BRANCH1 VERSION)
+## Overview (edited in branch1)
+##- This line added in branch1
+branch1
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
