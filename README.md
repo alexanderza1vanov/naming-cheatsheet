@@ -377,3 +377,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 - Additional line 1 (branch1)
+- Additional line 2 (branch1)
